@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi ^^
 
-<!--
-**Rida-Hamadani/Rida-Hamadani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Rida here, I'm 22. My main interests are ATP, CASs, and combinatorial algorithms.
+___
+These days, you can find me contributing to Lean's mathlib, mainly formalizing stuff about graphs. I'm currently reading:
+- Art of Computer Programming Vol. 4
+- Functional Programming in Lean
+- Homotopy Type Theory
+- Modern Computer Algebra
+___
+My coat of arms:
+<p align="center">
+  <img src="https://github.com/Rida-Hamadani/Rida-Hamadani/assets/106540880/71282ce0-4b33-4e03-a278-e41e49527adc" alt="ridactio ad absurdum"/>
+</p>
+<hr/> <br/>
+My email: mridahamadani@gmail.com
