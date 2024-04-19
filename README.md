@@ -12,5 +12,3 @@ My coat of arms:
 <p align="center">
   <img src="https://github.com/Rida-Hamadani/Rida-Hamadani/assets/106540880/71282ce0-4b33-4e03-a278-e41e49527adc" alt="ridactio ad absurdum"/>
 </p>
-<hr/> <br/>
-My email: mridahamadani@gmail.com
