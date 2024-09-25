@@ -1,12 +1,12 @@
-### Hi ^^
+### Hi, I'm Rida
 
-Rida here, I'm 22. My main interests are automated reasoning, CASs, and combinatorial algorithms.
+I'm interested in the areas where mathematics and computers intersect.
 ___
 These days, you can find me contributing to Lean's mathlib, mainly formalizing stuff about graphs. I'm currently reading:
 - Art of Computer Programming Vol. 4
-- Functional Programming in Lean
-- Homotopy Type Theory
-- Modern Computer Algebra
+- Metaprogramming in Lean
+- Introduction to Topological Manifolds
+- Analysis and Algebra on Differentiable Manifolds
 ___
 My coat of arms:
 <p align="center">
