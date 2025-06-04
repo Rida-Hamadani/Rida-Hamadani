@@ -2,11 +2,11 @@
 
 I'm interested in the areas where mathematics and computers intersect.
 ___
-These days, you can find me contributing to Lean's mathlib, mainly formalizing stuff about graphs. I'm currently reading:
-- Art of Computer Programming Vol. 4
+I'm usually contributing to Lean's mathlib. I'm currently reading:
+- Art of Computer Programming Vol. 4 - Knuth
 - Metaprogramming in Lean
-- Introduction to Topological Manifolds
-- Analysis and Algebra on Differentiable Manifolds
+- Algebraic Topology - Hatcher
+- Algebraic Graph Theory - Royle
 ___
 My coat of arms:
 <p align="center">
